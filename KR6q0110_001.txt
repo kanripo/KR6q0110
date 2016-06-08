@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:24.504647
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 傳法寶紀
 #+PROPERTY: CBETA_ID T85n2838
 #+PROPERTY: ID KR6q0110
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2838
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0110_T_001-1291a> 
 #+PROPERTY: JUAN 1
 ¶
-No.2838¶
-
- 傳法寶紀(并)序¶
+No. 2838¶
+傳法寶紀(并)序¶
 ¶
 京兆　□朏字方明撰¶
 
@@ -24,9 +23,9 @@ No.2838¶
 　所以令修紀
 　明此遞傳法¶
 　願當盡未來
-　廣開佛知見
+　廣開佛知見」
 #+END_VERSE
-」¶
+¶
 
 序曰。我真實法身法佛所得。離諸化佛言說¶
 傳乎文字者。則此真如門乃以證心自覺而¶
